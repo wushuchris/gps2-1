@@ -1,3 +1,27 @@
-body {
-  background-color: blue;
+header {
+  background-image: url("https://upload.wikimedia.org/wikipedia/en/a/a6/Goofy.svg");
+  max-width: 980px;
+  font-family: arial;
+
 }
+
+.column-1 {
+  background-color: green;
+  display: inline-block;
+  vertical-align: top;
+  max-width: 47%;
+  border: 1px solid red;
+
+}
+
+.column-2 {
+  background-color: yellow;
+  display: inline-block;
+  vertical-align: top;
+  max-width: 47%;
+  border: 1px solid green;
+  }
+
+footer {
+  background-color: red;
+  }
